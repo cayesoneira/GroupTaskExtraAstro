@@ -5,4 +5,4 @@ To run the program, just write in the terminal the following, depending on what 
     sudo ./lensmodel QSO1339SES.ini
 For the De Vacouleurs (DV) model with External Shear (ES):
 
-    sudo ./lensmodel QSO1339SES.ini
+    sudo ./lensmodel QSO1339DVES.ini
