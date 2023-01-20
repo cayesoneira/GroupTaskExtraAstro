@@ -1,5 +1,5 @@
 # GroupTaskExtraAstro
-### *Guideline to coordinate the group task for the determination of QSO position according to a gravitational lens model.*
+### *Guideline to coordinate the development of the group task for the determination of QSO position according to a gravitational lens model.*
 
 **You need to download the program `lensmodel` before any execution.**
 
